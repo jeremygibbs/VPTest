@@ -22,5 +22,5 @@ cmake -DFLOAT_TYPE=double ..
 Make and run the code:
 ````
 make
-./main/vp_test ..
+./main/vp_test
 ````
