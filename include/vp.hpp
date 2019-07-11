@@ -15,13 +15,13 @@ class VP {
     public:
         
         /**
-         * Constructs a UtahLSM object.
+         * Constructs a VP object.
          *
          */
         VP();
             
         /**
-         * Run UtahLSM.
+         * Run VP.
          */
         void run();
     
